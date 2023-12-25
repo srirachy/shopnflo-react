@@ -3,7 +3,7 @@ body {
     display: flex;
     flex-direction: column;
     background: linear-gradient(#ae866d, #ebe3d4);
-    background-repeat:no-repeat;
+    background-repeat: no-repeat;
     color: #ebe3d4;
 }
 
@@ -14,7 +14,7 @@ body {
 
 /* main */
 main {
-    min-height: 80vh;
+    min-height: 90vh;
 }
 
 .page-transparent {
@@ -23,7 +23,7 @@ main {
 
 .carousel-caption-transparent {
     background-color: rgba(36, 32, 30, .5);
-}  
+}
 
 .contact-icon {
     width: 6.25rem;
