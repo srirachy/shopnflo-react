@@ -1,9 +1,11 @@
 import React from 'react';
-// import { Routes, Route } from 'react-router-dom';
+import NaviBar from './components/NaviBar';
+import style from './utils/style.css'
 
 const App = () => {
     return ( 
         <>
+            <NaviBar />
             <h1>Yo</h1>
         </>
      );

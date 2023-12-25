@@ -1,0 +1,85 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(#ae866d, #ebe3d4);
+    background-repeat:no-repeat;
+    color: #ebe3d4;
+}
+
+/* nav */
+.nav-logo-img {
+    height: 3rem;
+}
+
+/* main */
+main {
+    min-height: 80vh;
+}
+
+.page-transparent {
+    background-color: rgba(36, 32, 30, .2);
+}
+
+.carousel-caption-transparent {
+    background-color: rgba(36, 32, 30, .5);
+}  
+
+.contact-icon {
+    width: 6.25rem;
+    height: 5.313rem;
+}
+
+.icons {
+    color: #ebe3d4
+}
+
+.img-hover {
+    cursor: pointer;
+}
+
+/* footer */
+footer {
+    height: 3.75rem;
+    margin-top: auto;
+    background-color: rgba(36, 32, 30, .7);
+}
+
+footer .icons:hover {
+    color: #ae866d;
+}
+
+.footer-content {
+    height: 3.75rem;
+}
+
+/* colors */
+.bg-satin-linen {
+    background-color: #ebe3d4;
+}
+
+.text-satin-linen {
+    color: #ebe3d4
+}
+
+.bg-light-taupe {
+    background-color: #ae866d;
+}
+
+.text-light-taupe {
+    color: #ae866d;
+}
+
+.btn-light-taupe {
+    background-color: #ae866d;
+    border-color: #ae866d;
+    color: #ebe3d4;
+}
+
+.btn-light-taupe:hover,
+.btn-light-taupe:active,
+.btn-light-taupe:focus {
+    background-color: #ae866d;
+    border-color: #ae866d;
+    color: #000;
+}
