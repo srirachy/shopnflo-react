@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "carousel_one",
+      "imgSrc": "img/best-product-2023.webp",
+      "imgAlt": "Image of Best Product 2023",
+      "title": "Best Product of 2023",
+      "content": "It's a drone! Made by a store from the toy department."
+    },
+    {
+      "id": "carousel_two",
+      "imgSrc": "img/best-store-2023.webp",
+      "imgAlt": "Image of Best Store 2023",
+      "title": "Best Store of 2023",
+      "content": "Congratulations to home decoration seller for having the best store of 2023!"
+    },
+    {
+      "id": "carousel_three",
+      "imgSrc": "img/delivery.webp",
+      "imgAlt": "Image of Delivery Service",
+      "title": "Free Delivery for The Holidays",
+      "content": "Any order will be covered by us so that you could receive your order from any seller!"
+    }
+  ]
+}

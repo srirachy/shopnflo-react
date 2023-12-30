@@ -1,0 +1,118 @@
+{
+  "plants": {
+    "title": "Plants",
+    "stores": [
+      {
+        "id": "plants_one",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/plants_one.webp",
+        "imgAlt": "Image of Plant Seller One"
+      },
+      {
+        "id": "plants_two",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/plants_two.webp",
+        "imgAlt": "Image of Plant Seller Two"
+      },
+      {
+        "id": "plants_three",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/plants_three.webp",
+        "imgAlt": "Image of Plant Seller Three"
+      },
+      {
+        "id": "plants_four",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/plants_four.webp",
+        "imgAlt": "Image of Plant Seller Four"
+      }
+    ]
+  },
+  "home": {
+    "title": "Home",
+    "stores": [
+      {
+        "id": "home_one",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/home_one.webp",
+        "imgAlt": "Image of Home Decor Seller One"
+      },
+      {
+        "id": "home_two",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/home_two.webp",
+        "imgAlt": "Image of Home Decor Seller Two"
+      },
+      {
+        "id": "home_three",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/home_three.webp",
+        "imgAlt": "Image of Home Decor Seller Three"
+      },
+      {
+        "id": "home_four",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/home_four.webp",
+        "imgAlt": "Image of Home Decor Seller Four"
+      }
+    ]
+  },
+  "toys": {
+    "title": "Toys",
+    "stores": [
+      {
+        "id": "toys_one",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/toys_one.webp",
+        "imgAlt": "Image of Toy Seller One"
+      },
+      {
+        "id": "toys_two",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/toys_two.webp",
+        "imgAlt": "Image of Toy Seller Two"
+      },
+      {
+        "id": "toys_three",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/toys_three.webp",
+        "imgAlt": "Image of Toy Seller Three"
+      },
+      {
+        "id": "toys_four",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/toys_four.webp",
+        "imgAlt": "Image of Toy Seller Four"
+      }
+    ]
+  },
+  "electronics": {
+    "title": "Electronics",
+    "stores": [
+      {
+        "id": "elec_one",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/elec_one.webp",
+        "imgAlt": "Image of Electronics Seller One"
+      },
+      {
+        "id": "elec_two",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/elec_two.webp",
+        "imgAlt": "Image of Electronics Seller Two"
+      },
+      {
+        "id": "elec_three",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/elec_three.webp",
+        "imgAlt": "Image of Electronics Seller Three"
+      },
+      {
+        "id": "elec_four",
+        "link": "http://www.amazon.com",
+        "imgSrc": "../img/elec_four.webp",
+        "imgAlt": "Image of Electronics Seller Four"
+      }
+    ]
+  }
+}
