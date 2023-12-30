@@ -1,8 +1,8 @@
 import React from 'react';
 import PageTitle from '../components/PageTitle';
+import Gallery from '../components/Gallery';
 import titleData from '../utils/titles.json';
 import galleryData from '../utils/stores.json';
-import Gallery from '../components/Gallery';
 
 const Stores = () => {
   const storesData = titleData.stores;
